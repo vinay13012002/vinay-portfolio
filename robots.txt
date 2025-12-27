@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://vinay-portfolio-com.netlify.app/
+
+# Sitemap Location
+Sitemap: https://vinay-portfolio-com.netlify.app/sitemap.xml

@@ -1,0 +1,31 @@
+# C Vinay Kumar - Frontend Developer Portfolio
+> Portfolio of C Vinay Kumar, a Frontend Developer with 3+ years of experience specializing in React, Next.js, and TypeScript. Currently working at Terralogic Software Solutions.
+
+## Professional Summary
+Individually driven Frontend Engineer based in Bangalore, focused on building scalable, high-performance web applications. Expert in modern UI engineering, web performance optimization, and clean, maintainable code.
+
+## Key Resources
+- [Portfolio Home](https://vinay-portfolio-com.netlify.app/): Introduction and professional overview.
+- [Resume](https://vinay-portfolio-com.netlify.app/images/vinay-resume-new.pdf): Downloadable PDF resume.
+- [GitHub](https://github.com/vinay13012002): Source code for projects and contributions.
+- [LinkedIn](https://www.linkedin.com/in/c-vinay-kumar-76993325b/): Professional networking and experience history.
+
+## Technical Stack
+- **Core:** React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3/SCSS.
+- **State & API:** Redux, RTK (Redux Toolkit), Rest APIs.
+- **UI Frameworks:** MUI (Material UI), Tailwind CSS, Bootstrap, Shadcn UI, Styled Components.
+- **Tools:** Git, GitHub, VS Code.
+
+## Featured Projects
+- [Sight and Life](https://sightandlife.org/): Science-led malnutrition solutions (Next.js, TS, MUI).
+- [Economic Times - World Leaders Forum](https://etworldleadersforum.com/home): Business leadership platform (Next.js, Strapi, Node.js).
+- [2070 Health](https://2070health.com/): Healthcare venture studio (JS, Bootstrap, WordPress).
+- [Prescinto.ai](https://prescinto.ai/): Data-driven solar asset management.
+- [PS Group](https://psgroup.in): Real estate platform (React, Next.js).
+- [Cloudhop Bakeshop](https://cloudhopbakeshop.com/): E-commerce bakery site.
+
+## Contact Information
+- **Email:** vinayhskp19@gmail.com
+- **Phone:** +91 7353806358
+- **Location:** Bangalore, India
+- **Socials:** [Twitter/X](https://x.com/Vinay02025546), [Instagram](https://www.instagram.com/hiremat_vinay/)
